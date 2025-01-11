@@ -1,4 +1,4 @@
 locals {
-  sg_name = "${var.project_name}-${var.environmet}-${var.sg_name}"
+  sg_name = "${var.project_name}-${var.environment}-${var.sg_name}"
   
 }
